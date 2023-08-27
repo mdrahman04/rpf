@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rpf/static/css/main.deea66d3.css",
+    "main.js": "/rpf/static/js/main.d4a12ea4.js",
+    "index.html": "/rpf/index.html",
+    "main.deea66d3.css.map": "/rpf/static/css/main.deea66d3.css.map",
+    "main.d4a12ea4.js.map": "/rpf/static/js/main.d4a12ea4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deea66d3.css",
+    "static/js/main.d4a12ea4.js"
+  ]
+}
